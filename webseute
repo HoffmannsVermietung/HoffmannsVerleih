@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Milwaukee Akkuschrauber M18BLDDRC‑0X mieten | Furtwangen</title>
+  <meta name="description" content="Gewerbliche Vermietung: Milwaukee M18BLDDRC‑0X inkl. 2x 3Ah Akkus, Ladegerät & Koffer. Furtwangen im Schwarzwald. Tages‑, Wochenend‑, Wochenpreise. Rechnung mit MwSt.">
+  <meta name="theme-color" content="#111827" />
+  <style>
+    :root{--bg:#0b0f17;--card:#101827;--muted:#0d1422;--pri:#ef4444;--sub:#9ca3af;--txt:#e5e7eb}
+    *{box-sizing:border-box}html,body{margin:0}
+    body{font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Helvetica, Arial, sans-serif;background:linear-gradient(180deg,#0b0f17,#0a0f1a);color:var(--txt);line-height:1.6}
+    .container{max-width:1100px;margin:0 auto;padding:24px}
+    header{position:sticky;top:0;z-index:10;background:rgba(11,15,23,.8);backdrop-filter:blur(6px);border-bottom:1px solid rgba(255,255,255,.08)}
+    .nav{display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .logo{display:flex;align-items:center;gap:10px;font-weight:800}
+    .logo-badge{width:36px;height:36px;border-radius:10px;background:var(--pri);display:grid;place-items:center}
+    a{color:inherit;text-decoration:none}
+    .btn{display:inline-flex;align-items:center;gap:10px;background:var(--pri);padding:12px 16px;border-radius:12px;font-weight:700;transition:.2s;box-shadow:0 10px 24px rgba(239,68,68,.28)}
+    .btn:hover{transform:translateY(-1px)}
+    .ghost{background:transparent;border:1px solid rgba(255,255,255,.15)}
+    .hero{padding:64px 0 28px}
+    h1{font-size:clamp(28px,4vw,44px);line-height:1.1;margin:8px 0 10px}
+    h2{font-size:clamp(22px,3vw,30px);margin:0 0 12px}
+    h3{font-size:18px;margin:0 0 8px}
+    p{margin:0 0 12px}
+    .sub{color:var(--sub)}
+    .grid{display:grid;gap:18px}
+    @media(min-width:900px){.grid-2{grid-template-columns:1.1fr .9fr}}
+    .card{background:linear-gradient(180deg,var(--card),#0b1120);border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:20px}
+    .list{margin:0;padding-left:18px}
+    .list li{margin:6px 0}
+    .price-grid{display:grid;gap:12px}
+    @media(min-width:720px){.price-grid{grid-template-columns:repeat(3,1fr)}}
+    .price{background:linear-gradient(180deg,#0e1626,#0a1020);border:1px solid rgba(255,255,255,.08);border-radius:18px;padding:18px}
+    .amount{font-size:30px;font-weight:800;margin:6px 0}
+    footer{margin-top:40px;border-top:1px solid rgba(255,255,255,.08);padding:22px 0;color:var(--sub)}
+    .muted{font-size:13px;color:var(--sub)}
+    .badges{display:flex;flex-wrap:wrap;gap:8px}
+    .badge{font-size:12px;padding:4px 10px;border:1px solid rgba(255,255,255,.16);border-radius:999px;background:rgba(255,255,255,.04)}
+    .inline{display:inline-flex;gap:12px;flex-wrap:wrap}
+    .hero-shot{aspect-ratio:16/10;background:radial-gradient(1200px 500px at 10% -10%,rgba(239,68,68,.18),transparent 40%),
+                radial-gradient(1200px 500px at 90% -10%,rgba(255,255,255,.06),transparent 35%),
+                linear-gradient(180deg,#0b1020,#0a0f1a);
+               border:1px solid rgba(255,255,255,.08);border-radius:20px;display:grid;place-items:center;color:#fca5a5;font-weight:800}
+    .cta-wrap{display:flex;gap:10px;flex-wrap:wrap}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <div class="logo"><div class="logo-badge">🔧</div> Milwaukee‑Vermietung Furtwangen</div>
+      <div class="inline">
+        <a class="btn ghost" href="#preise">Preise</a>
+        <a class="btn" href="#kontakt">Jetzt anfragen</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero grid grid-2">
+      <div>
+        <p class="badge">Gewerbliche Vermietung – Rechnung mit MwSt.</p>
+        <h1>Milwaukee M18BLDDRC‑0X mieten – inkl. 2× 3Ah Akkus, Ladegerät & Koffer</h1>
+        <p class="sub">Profi‑Akkuschrauber für Montage, Ausbau & Renovierung. Standort: <strong>Furtwangen im Schwarzwald</strong>.</p>
+        <div class="cta-wrap">
+          <a class="btn" href="#kontakt">Termin anfragen</a>
+          <a class="btn ghost" href="#details">Technische Details</a>
+        </div>
+      </div>
+      <div>
+        <div class="hero-shot">Milwaukee M18 • Hero</div>
+      </div>
+    </section>
+
+    <section id="details" class="grid grid-2">
+      <div class="card">
+        <h2>Lieferumfang</h2>
+        <ul class="list">
+          <li>Milwaukee <strong>M18BLDDRC‑0X</strong> (bürstenlos)</li>
+          <li><strong>2× 3.0Ah Akkus</strong> (M18)</li>
+          <li>Schnellladegerät</li>
+          <li>Stabiler Milwaukee Koffer</li>
+        </ul>
+        <div class="badges" style="margin-top:10px">
+          <span class="badge">Profiqualität</span>
+          <span class="badge">Geprüft & einsatzbereit</span>
+          <span class="badge">Flexible Abholung</span>
+        </div>
+      </div>
+      <div class="card">
+        <h2>Vorteile</h2>
+        <ul class="list">
+          <li>Bürstenloser Motor: mehr Leistung & längere Laufzeit</li>
+          <li>Kompakt & robust – ideal für Baustellen</li>
+          <li>Gewerblich – Rechnung mit ausgewiesener MwSt.</li>
+          <li>Schnelle Rückmeldung auf Anfragen</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="preise" class="card" style="margin-top:18px">
+      <h2>Preise</h2>
+      <div class="price-grid">
+        <div class="price"><h3>Tag</h3><div class="amount">15 € netto</div><p class="muted">Abholung in Furtwangen</p></div>
+        <div class="price"><h3>Wochenende</h3><div class="amount">35 € netto</div><p class="muted">Fr–So</p></div>
+        <div class="price"><h3>Woche</h3><div class="amount">60 € netto</div><p class="muted">7 Kalendertage</p></div>
+      </div>
+      <p class="muted" style="margin-top:8px">Kaution: 50 € – Rückerstattung bei ordnungsgemäßer Rückgabe.</p>
+    </section>
+
+    <section id="kontakt" class="card" style="margin-top:18px">
+      <h2>Kontakt & Reservierung</h2>
+      <p>Sende mir eine Nachricht mit <em>Zeitraum</em> und <em>Verwendungszweck</em>. Ich antworte schnell.</p>
+      <div class="inline" style="margin-top:8px">
+        <a class="btn" href="mailto:info@example.com?subject=Anfrage%20Milwaukee%20M18BLDDRC-0X&body=Hallo%2C%20ich%20m%C3%B6chte%20den%20Akkuschrauber%20im%20Zeitraum%20...%20mieten.%20Telefon%3A%20">E‑Mail senden</a>
+        <a class="btn ghost" href="tel:+490000000000">Anrufen</a>
+        <a class="btn ghost" href="https://wa.me/490000000000" target="_blank" rel="noopener">WhatsApp</a>
+      </div>
+      <p class="muted" style="margin-top:10px">Ersetze oben E‑Mail, Telefonnummer & WhatsApp‑Link mit deinen echten Daten.</p>
+    </section>
+
+    <section class="card" style="margin-top:18px">
+      <h2>Standort</h2>
+      <p class="sub">Furtwangen im Schwarzwald – Abholung nach Absprache.</p>
+      <div class="hero-shot" style="height:280px">Google Maps Platzhalter</div>
+      <p class="muted" style="margin-top:8px">Du kannst hier ein eingebettetes Google‑Maps‑iFrame einsetzen.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="inline"><a href="#impressum">Impressum</a><span>•</span><a href="#datenschutz">Datenschutz</a></div>
+      <p class="muted">© <span id="y"></span> Milwaukee‑Vermietung Furtwangen. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
